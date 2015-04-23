@@ -1,0 +1,17 @@
+{
+  "name": "Cil",
+  "version": "0.0.1",
+  "authors": [
+    "Sandra Espinoza <san.espinoz@gmail.com>"
+  ],
+  "description": "Paquetes del frontend",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "cil.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
